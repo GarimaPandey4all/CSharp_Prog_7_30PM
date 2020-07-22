@@ -1,0 +1,21 @@
+C# - Programming
+
+Object Oriented Programming Language : OOPs
+
+Code:
+
+IDE: Integrated Development Environment
+Visual Studio Code : VS Code
+
+C# Code create and run: VS code
+
+1. C# extension
+2. .Net Core SDK
+
+Create and run:
+
+1. dotnet new console
+2. dotnet run
+
+cd: change directory
+mkdir: make directory
