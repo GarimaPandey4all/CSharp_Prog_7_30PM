@@ -1,0 +1,16 @@
+C# - Programming:
+
+Type Conversion/Casting:
+
+When you assign a value of one data type to another data type.
+
+1. Implicit Type Casting (Automatically)
+	Smaller type to Larger type
+	
+2. Explicit Type Casting (Manually)
+	Larger type to Smaller type
+	
+	
+	
+	
+
