@@ -1,0 +1,30 @@
+Scopes:
+
+Scopes/Variables:
+
+1. Local Variables: 
+
+-When function call then function goes inside the stack (stack push/insert) and then local variable introduce
+-When function ends(stack pop/delete), then local variable destroy
+-Local Variables has to be initialize by developer
+
+2. Instance Variables:
+
+-Get initialize when object is created.
+-Instance variables comes in the memory when you create object.
+
+e.g: class Emp
+{
+	int id; // int =0
+	string name; // string = null
+}
+
+These comes in the memory when you create object.
+
+e.g: 
+Emp obj = new Emp(); // obj : reference variable
+
+3. Static Variables:
+
+-It comes when class is loaded in the memory, class is loaded once only.
+-So static variables are bind with class, not with instance.
